@@ -1,0 +1,15 @@
+*~
+*.swp
+*#*#
+*.pyc
+*.log
+*.pid
+*.out
+build/
+printenv
+.DS_Store
+*.db
+.idea/
+venv
+search_index
+config.py
