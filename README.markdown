@@ -2,6 +2,8 @@ Auto SSOL
 ============
 Automatically registers for classes on the Columbia SSOL system.
 
+**Note that this tool is pretty mooted since the introduction of the Columbia waitlist, but feel free to poke around for fun**
+
 Requirements
 ------------
 - Python
